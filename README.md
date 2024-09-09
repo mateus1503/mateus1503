@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mateus+Neves;I'm+20+years+old;I'm+from+Brazil;I'm+majoring+in+Systems+for+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateus1503&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E3963E&include_all_commits=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateus1503&layout=compact&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E34234"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusneves30&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E3963E&include_all_commits=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusneves30&layout=compact&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E34234"/>
 </div>
 <br>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mateus1503}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mateusneves30}/count.svg" /></p> 
 <br>
 </div>
 
